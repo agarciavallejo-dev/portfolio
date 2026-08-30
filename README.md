@@ -24,4 +24,3 @@ Anthony Garcia Vallejo
 - GitHub: github.com/agarciavallejo-dev
 - LinkedIn: linkedin.com/in/anthony-garcia-vallejo-dev
 - Portfolio: anthony-garcia-vallejo.lovable.app
-- 
